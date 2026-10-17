@@ -1,6 +1,6 @@
 {
-  "version": "3.1",
+  "version": "3.2",
   "fecha": "2026-10-17",
-  "notas": "Corregidos dos fallos al poner precios: las piezas elegidas en el desplegable de la fila se quedaban a 0 euros, y los precios escritos con coma (12,50) se perdian al guardar.",
+  "notas": "Ahora puedo renovarte o ampliarte la licencia a distancia, sin que tengas que pegar ninguna licencia nueva. Para eso el programa necesita conectarse a internet al menos una vez cada 30 dias; si pasa mas tiempo sin conectar, podras seguir consultando y sacando PDF, pero no guardar cambios hasta que lo conectes. Incluye tambien las correcciones de la 3.1 en los precios de las piezas.",
   "url": "https://github.com/gmfernandojesus/actualizaciones/releases/latest"
 }
